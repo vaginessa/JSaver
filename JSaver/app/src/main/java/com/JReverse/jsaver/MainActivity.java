@@ -76,14 +76,6 @@ public class MainActivity extends AppCompatActivity {
         return new Pair<Integer, String>(exitVal, sb.toString());
     }
 
-    public static void createNewDirectory(String name) {
-        // create a directory before creating a new file inside it.
-        File directory = new File(Environment.getExternalStorageDirectory(), name);
-        if (!directory.exists()) {
-            directory.mkdirs();
-        }
-    }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
