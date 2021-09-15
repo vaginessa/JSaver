@@ -14,3 +14,7 @@ NO XPOSED NEEDED JUST ROOT 🥳
 
 # [Known Bugs]
 - Some devices using magisk & certain android versions (won't get the saved content) (PLANNING TO FIX) [Known affected Device OP9 Pro // Magisk Stable // OOS 11.2.8.8] (All help would be apprecated)
+
+
+# READ
+- Archiving as i'm leaving android and moving to iPhone (Until android gets darkmode snapchat / pinning)
